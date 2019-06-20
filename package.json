@@ -8,7 +8,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eladb/cdk-dynamo-table-viewer.git"
+    "url": "https://github.com/kpiljoong/cdk-dynamo-table-viewer.git"
   },
   "devDependencies": {
     "@types/node": "11.11.4",
