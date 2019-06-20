@@ -4,7 +4,7 @@
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
-    "prepack": "tsc"
+    "prepare": "npm run build"
   },
   "main": "lib/index.js",
   "repository": {
